@@ -12,6 +12,7 @@
     grid-auto-flow: row dense;
     background-color: lightblue;
     border: 10px solid lightblue;
+    margin-bottom: 40px;
 }
 
 .item-galeria {
