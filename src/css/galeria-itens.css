@@ -15,7 +15,99 @@
 } 
 #item4{
     background-image: url("https://m.media-amazon.com/images/M/MV5BNzk5OTQ5NjAtMjk0Zi00MmVlLWJiNGMtMjI4ZWY2MTBiZjViXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SX1777_CR0,0,1777,975_AL_.jpg" );
-    grid
+    grid-row: span 2;
+    grid-column: span 3;
 }
-    
+#item5{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZTdlN2YzNWItOTQyYy00MGJjLTlkYmYtNjBlMTFlZjI0NTgxXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SX1777_CR0,0,1777,999_AL_.jpg" );
+    grid-row: span 2;
+    grid-column: span 3;
+}
+#item6{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNGM3ZGMyNDQtOWVmNi00YzQwLWJlZDctNjAwZDljZjhiNDQ2XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,1550,1000_AL_.jpg" );
+    grid-row: span 2;
+    grid-column: span 2;
+}
+#item7{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNGEwZDAzZTMtYjQyYi00OTZkLTk2ZDAtYjlhYmU5NGFhMGNlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 3;
+}
+#item8{
+     background-image: url("https://m.media-amazon.com/images/M/MV5BZmJjNDk5NmQtMmRlYy00ZTYwLWI1ZTUtZTI0NjdhNDIxN2M1XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SX1777_CR0,0,1777,956_AL_.jpg");
+     grid-row: span 2;
+     grid-column: span 2; 
+    }
+    #item9{
+        background-image: url("http://www.moviescene.nl/ckfinder/userfiles/images/Moviescene/screens/F/the_fault_in_our_stars_56031571_st_8_s-low.jpg" );  
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item10{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMTQxNTU2MTQ2MV5BMl5BanBnXkFtZTgwNDA5OTA4MTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item11{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMjA5OTY0ODg2MF5BMl5BanBnXkFtZTgwOTk4OTA4MTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg");
+        grid-row: span 2;
+        grid-column: span 2; 
+    }
+    #item12{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMTU2NDcwODIwMl5BMl5BanBnXkFtZTgwOTQ0MTk5MDE@._V1_SY1000_CR0,0,1512,1000_AL_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item13{
+        background-image: url("https://i0.wp.com/portalovertube.com/wp-content/uploads/2019/01/a-culpa-%C3%A9-das-estrelas-960x509.jpg");
+        grid-row: span 1;
+        grid-column: span 2;
+
+    }
+    #item14{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMTcyMzgwNDE1N15BMl5BanBnXkFtZTgwNzMwMzg0MzE@._V1_SY1000_CR0,0,1464,1000_AL_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item15{
+        background-image: url("http://3.bp.blogspot.com/-zP0E8_sVFRo/U6CdbTpLPgI/AAAAAAAABsY/hovki01a5hQ/s1600/primeiro-featurette-de-a-culpa-%C3%A9-das-estrelas-bastidores-cenas-in%C3%A9ditas-sobre-sagas-2014-facebook.png");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item16{
+        background-image: url("https://curitibacult.com.br/wp-content/uploads/2017/08/ACulpaEDASEstrelas2.png");
+        grid-row: span 2;
+        grid-column: span 3;
+    }
+    #item17{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BYTE4M2U0YTktYTU4Ni00OWZiLTkxZTUtZTc3YWM5YWY4YjVkXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+        grid-row: span 2;
+        grid-column: span 3;
+    }
+    #item18{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMjM4ODcyYzEtMWI3YS00OTQ3LThiZjctMzc0MDVmMTYyOGViXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item19{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BMzgyNzJmNzYtZGI3Yi00ZmQ2LTg2NGUtZDY1NDhiZTdkY2M4XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item20{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BYzZmZjhjYTQtYTYwNi00ZjcyLWEwOGEtMzRkNzI2YTgyNzgzXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item21{
+        background-image: url("https://data.whicdn.com/images/119022687/large.png");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+    #item22{
+        background-image: url("https://m.media-amazon.com/images/M/MV5BYjgxYzNiOGYtZTBlNS00YmUyLTgzMDAtMGUzY2EwNDBiNzk4XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+        grid-row: span 2;
+        grid-column: span 2;
+    }
+
     
