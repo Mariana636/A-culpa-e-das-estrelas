@@ -1,0 +1,84 @@
+@import "universal.css";
+
+main {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+div {
+    height: 500px;
+    max-width: 800px;
+    background-color: rgba(34, 28, 28, 0.6);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    font-weight: bold;
+    align-self: center;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: rgb(40, 221, 221);
+}
+
+#ator1-main {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZjEzN2Q4YzgtZmNiYi00ZGIxLWE3MGMtODY2NTVkNjIyNTdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,1498,1000_AL_.jpg");
+    background-position: 50% 50%;
+}
+
+#ator2-main {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTg2ODEzMzI5OF5BMl5BanBnXkFtZTgwODkyMzUzMTE@._V1_SY1000_SX1500_AL_.jpg");
+    background-position: 50% 50%;
+}    
+
+#ator3-main {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTc4MTc0MDcyN15BMl5BanBnXkFtZTcwNjE3MTQwOQ@@._V1_.jpg");
+    background-position: 50% 60%
+}
+
+@media screen and (min-width: 900px) {
+    #ator3-main {
+        background-size: contain;
+        background-position-x: 50%;
+        background-color: rgb(61, 173, 46)
+
+}
+
+@media screen and (min-width: 900px) {
+    #ator2-main {
+        background-size: contain;
+        background-position-x: 50%;
+        background-color: rgb(95, 50, 39)
+
+}
+@media screen and (min-width: 900px) {
+    #ator1-main {
+        background-size: contain;
+        background-position-x: 50%;
+        background-color: rgb(19, 14, 34)
+
+}

@@ -1,0 +1,57 @@
+#estrelas {
+    background-color: rgb(83, 211, 218);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#container-estrelas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+    margin-bottom: 50px;
+}
+
+#container-estrelas a {
+    text-decoration: none;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#container-estrelas a:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.5);
+}
+
+#container-estrelas a p {
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 300px;
+}
+
+#ator1{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOTIxNTE2NTQ3Nl5BMl5BanBnXkFtZTcwMzMwOTk2Nw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg");
+    background-position-x: -280px;
+}
+
+#ator2 {
+    background-image: url("https://pmcvariety.files.wordpress.com/2018/04/ansel-elgort.jpg?w=1000");
+    background-position-x: -120px;
+}
+
+#ator3 {
+    background-image: url("https://vignette.wikia.nocookie.net/johngreen/images/b/b9/Natwolff.jpg/revision/latest?cb=20140516231233");
+    background-position-x: -30px;
+}
+#estrelas h3 {
+    color: rgb(121, 109, 165);
+    text-shadow: rgba(87, 19, 204, 0.7);
+}

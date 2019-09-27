@@ -1,0 +1,23 @@
+#sobre {
+    background-color: rgb(139, 33, 172);
+    color: white;
+  
+    font-size: 15px;
+}
+#sobre p span{
+    color:red;
+    font-weight: bold;
+
+}
+#sobre p {
+    margin-bottom: 40px;
+     
+}
+#sinopse{
+    max-width: 800px;
+    text-align: center;
+}
+#sinopse h3{
+    color: red;
+    margin-bottom: 50px;
+}
