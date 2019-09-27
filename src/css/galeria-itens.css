@@ -109,5 +109,10 @@
         grid-row: span 2;
         grid-column: span 2;
     }
-
-    
+    #item23{
+        background-image:  url("https://m.media-amazon.com/images/M/MV5BZTgxNzcyNDctNDM1NS00NjhmLTg3NGMtZDUwNDBjMjM1MjZhXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg");
+            grid-row: span 2;
+            grid-column: span 3;
+    }
+   
+ 

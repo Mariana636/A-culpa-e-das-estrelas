@@ -1,11 +1,11 @@
 #sobre {
-    background-color: rgb(139, 33, 172);
-    color: white;
+    background-color:lightblue;
+    color:black;
   
     font-size: 15px;
 }
 #sobre p span{
-    color:red;
+    color:rebeccapurple;
     font-weight: bold;
 
 }
@@ -18,6 +18,6 @@
     text-align: center;
 }
 #sinopse h3{
-    color: red;
+    color: rgba(21, 97, 121, 0.5);
     margin-bottom: 50px;
 }

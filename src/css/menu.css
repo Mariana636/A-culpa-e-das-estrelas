@@ -1,5 +1,5 @@
 nav {
-    background-color: rgba(13, 15, 6, 0.9);
+    background-color: rgba(149, 182, 28, 0.9);
     position: fixed;
     width: 100vw;
     z-index: 3;
@@ -13,11 +13,11 @@ nav ul {
 }
 
 nav ul li:hover {
-    text-shadow: 0 0 2px rgb(0, 0, 0, 0.7)
+    text-shadow: 0 0 2px rgba(0, 150, 25, 0.7)
 }
 nav ul li a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 15px;
     font-weight: bold;
 }

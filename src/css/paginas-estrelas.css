@@ -21,7 +21,7 @@ ul {
 div {
     height: 500px;
     max-width: 800px;
-    background-color: rgba(34, 28, 28, 0.6);
+    background-color: rgba(112, 71, 71, 0.6);
     color: white;
     display: flex;
     flex-direction: column;
@@ -47,24 +47,24 @@ a:hover {
 
 #ator1-main {
     background-image: url("https://m.media-amazon.com/images/M/MV5BZjEzN2Q4YzgtZmNiYi00ZGIxLWE3MGMtODY2NTVkNjIyNTdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,1498,1000_AL_.jpg");
-    background-position: 50% 50%;
+    background-position: 
 }
 
 #ator2-main {
     background-image: url("https://m.media-amazon.com/images/M/MV5BMTg2ODEzMzI5OF5BMl5BanBnXkFtZTgwODkyMzUzMTE@._V1_SY1000_SX1500_AL_.jpg");
-    background-position: 50% 50%;
+    background-position: 
 }    
 
 #ator3-main {
     background-image: url("https://m.media-amazon.com/images/M/MV5BMTc4MTc0MDcyN15BMl5BanBnXkFtZTcwNjE3MTQwOQ@@._V1_.jpg");
-    background-position: 50% 60%
+    background-position: 
 }
 
 @media screen and (min-width: 900px) {
     #ator3-main {
         background-size: contain;
         background-position-x: 50%;
-        background-color: rgb(61, 173, 46)
+        background-color: rgba(46, 101, 173, 0.808)
 
 }
 
@@ -72,13 +72,13 @@ a:hover {
     #ator2-main {
         background-size: contain;
         background-position-x: 50%;
-        background-color: rgb(95, 50, 39)
+        background-color: rgba(190, 179, 17, 0.178)
 
 }
 @media screen and (min-width: 900px) {
     #ator1-main {
         background-size: contain;
         background-position-x: 50%;
-        background-color: rgb(19, 14, 34)
+        background-color: rgb(62, 25, 175)
 
 }

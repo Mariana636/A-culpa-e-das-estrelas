@@ -1,5 +1,5 @@
 #estrelas {
-    background-color: rgb(83, 211, 218);
+    background-color: rgb(25, 181, 189);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -22,7 +22,7 @@
 }
 
 #container-estrelas a:hover {
-    box-shadow: 0 0 10px rgb(255, 255, 255, 0.5);
+    box-shadow: 0 0 10px rgba(136, 100, 100, 0.5);
 }
 
 #container-estrelas a p {
@@ -39,7 +39,7 @@
 
 #ator1{
     background-image: url("https://m.media-amazon.com/images/M/MV5BOTIxNTE2NTQ3Nl5BMl5BanBnXkFtZTcwMzMwOTk2Nw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg");
-    background-position-x: -280px;
+    background-position-x: -300px;
 }
 
 #ator2 {

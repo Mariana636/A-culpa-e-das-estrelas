@@ -20,7 +20,7 @@
 
  main div {
     text-align: center;
-    color: white;
+    color: rgba(255, 255, 255, 0.897);
     background-color: rgba(37, 27, 27, 0.7);
     padding: 30px;
     border-radius: 10px;
